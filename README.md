@@ -13,5 +13,5 @@ See the code:
 ## Account deletion
 To delete your MAGE account and any associated data please contact the administrator for your MAGE server or email [NGA MAGE](mailto:mage@nga.mil).
 
-
+test
 
